@@ -1,0 +1,16 @@
+{
+  "name": "sveltekit-vercel-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-vercel": "3.1.0",
+    "@sveltejs/kit": "2.5.10",
+    "svelte": "4.2.12",
+    "vite": "5.2.8"
+  }
+}
